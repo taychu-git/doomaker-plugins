@@ -1,0 +1,21 @@
+# 产品字段（只改冒号右边的值，键名别动）
+# 每行一个字段；PLATFORMS 用逗号隔开；不确定的留空
+SKU: XK-OLED-096-YB
+SLUG:
+CATEGORY: oled
+NAME_ZH: 0.96寸 OLED 黄蓝双色
+NAME_EN: 0.96" OLED — Yellow & Blue
+TAGLINE_ZH: 最经典的入门屏。
+TAGLINE_EN: The classic starter screen.
+FEATURES_ZH: 黄蓝双色分区，标题色免费送。
+FEATURES_EN: Two-tone yellow/blue panel.
+SIZE: 0.96"
+RESOLUTION: 128x64
+DRIVER: SSD1306
+INTERFACE: I2C
+PLATFORMS: arduino, esp32, rpi, pico
+PRICE_MIN: 3.5
+PRICE_MAX: 6
+PAYMENT_LINK:
+FEATURED: no
+SORT: 100

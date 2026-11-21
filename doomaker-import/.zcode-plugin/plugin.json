@@ -1,0 +1,9 @@
+{
+  "name": "doomaker-import",
+  "version": "0.1.1",
+  "description": "Import or update DOOMAKER store products from a local folder (product.txt + demo.gif + photo.jpg) to doomaker.com",
+  "author": {
+    "name": "DOOMAKER"
+  },
+  "skills": "./skills"
+}
